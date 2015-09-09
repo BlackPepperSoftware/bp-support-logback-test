@@ -43,6 +43,16 @@
 	
 	</licenses>
 	
+	<issueManagement>
+		<system>GitHub</system>
+		<url>https://github.com/BlackPepperSoftware/bp-support-logback-test/issues</url>
+	</issueManagement>
+	
+	<ciManagement>
+		<system>Travis CI</system>
+		<url>https://travis-ci.org/BlackPepperSoftware/bp-support-logback-test</url>
+	</ciManagement>
+
 	<scm>
 		<connection>scm:git:git@github.com:BlackPepperSoftware/bp-support-logback-test.git</connection>
 		<developerConnection>scm:git:git@github.com:BlackPepperSoftware/bp-support-logback-test.git</developerConnection>
